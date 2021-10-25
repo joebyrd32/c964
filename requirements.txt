@@ -1,5 +1,5 @@
 yfinance
-matplotlib.pyplot
+matplotlib
 ipywidgets
 voila
 keras
