@@ -2,6 +2,7 @@ yfinance
 matplotlib
 ipywidgets
 voila
+sklearn
 keras
 tensorflow-cpu
 ipywidgets
