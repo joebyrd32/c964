@@ -1,6 +1,6 @@
-pip install yfinance
-pip install ipywidgets
-pip install voila
-pip install keras
-pip install tensorflow
-pip install ipywidgets
+yfinance
+ipywidgets
+voila
+keras
+tensorflow
+ipywidgets
