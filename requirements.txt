@@ -2,5 +2,5 @@ yfinance
 ipywidgets
 voila
 keras
-tensorflow
+tensorflow-cpu
 ipywidgets
