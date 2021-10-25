@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser c964.ipynb
+web: voila --port=$PORT --no-browser --show_tracebacks=True c964.ipynb 
