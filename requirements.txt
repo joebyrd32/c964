@@ -6,3 +6,4 @@ sklearn
 keras
 tensorflow-cpu
 ipywidgets
+voila-material
